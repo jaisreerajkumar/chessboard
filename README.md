@@ -2,7 +2,7 @@
 
 An interactive chessboard built with HTML, CSS, and JavaScript. Play chess directly in your browser! This project focuses on a fully functional frontend chessboard, piece movement, and basic game rules.
 
-🌟 Features
+## 🌟 Features
 
 Fully responsive 8x8 chessboard
 
@@ -18,7 +18,7 @@ Visual feedback for captured pieces
 
 Mobile-friendly design
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 HTML5 – Structure of the chessboard and pieces
 
@@ -34,14 +34,14 @@ Move history and timer
 
 Multiplayer over WebSocket
 
-📁 Project Structure
+## 📁 Project Structure
 online-chessboard/
 │
 ├── index.html         # Main HTML file
 ├── README.md          # Project documentation
 └── LICENSE            # Optional open source license
 
-🚀 How to Run Locally
+## 🚀 How to Run Locally
 
 Clone the repository:
 
@@ -54,7 +54,7 @@ Start playing! Drag and drop pieces to make moves.
 
 No installation or backend server is required — pure frontend project.
 
-🎯 Usage
+## 🎯 Usage
 
 Click or drag a chess piece to see valid moves
 
@@ -62,7 +62,7 @@ Move pieces according to standard chess rules
 
 Use the reset button to restart the game
 
-📝 Future Enhancements
+## 📝 Future Enhancements
 
 Add check/checkmate detection
 
@@ -72,7 +72,7 @@ Add chess AI using Minimax algorithm
 
 Enable multiplayer online mode
 
-👨‍💻 Contributing
+## 👨‍💻 Contributing
 
 Contributions are welcome!
 
@@ -88,7 +88,7 @@ Push to the branch (git push origin feature-name)
 
 Open a Pull Request
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License. See LICENSE
  for details.
