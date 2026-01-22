@@ -1,4 +1,4 @@
-🏰 Online Chessboard
+# 🏰 Online Chessboard
 
 An interactive chessboard built with HTML, CSS, and JavaScript. Play chess directly in your browser! This project focuses on a fully functional frontend chessboard, piece movement, and basic game rules.
 
@@ -93,6 +93,4 @@ Open a Pull Request
 This project is licensed under the MIT License. See LICENSE
  for details.
 
-🎨 Demo
-
-Include a screenshot of your chessboard or GIF here:
+Link: https://jaisreerajkumar.github.io/chessboard/
