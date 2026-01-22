@@ -1,5 +1,3 @@
-:
-
 🏰 Online Chessboard
 
 An interactive chessboard built with HTML, CSS, and JavaScript. Play chess directly in your browser! This project focuses on a fully functional frontend chessboard, piece movement, and basic game rules.
@@ -40,9 +38,6 @@ Multiplayer over WebSocket
 online-chessboard/
 │
 ├── index.html         # Main HTML file
-├── style.css          # Chessboard and piece styling
-├── script.js          # Game logic and piece movement
-├── assets/            # Chess piece images (if using images)
 ├── README.md          # Project documentation
 └── LICENSE            # Optional open source license
 
