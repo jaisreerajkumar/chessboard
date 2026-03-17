@@ -93,4 +93,4 @@ Open a Pull Request
 This project is licensed under the MIT License. See LICENSE
  for details.
 
-Link: https://jaisreerajkumar.github.io/chessboard/
+Link: https://jaisreerajkumar.github.io/chessboard/ 
